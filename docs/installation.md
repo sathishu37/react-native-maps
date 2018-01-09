@@ -1,7 +1,7 @@
 # Installation
 
 First, download the library from npm:
-
+xzmdcnew
 ```
 npm install react-native-maps --save
 ```
